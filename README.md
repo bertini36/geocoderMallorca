@@ -1,4 +1,4 @@
-# Mallorca Reverse Geocoder 
+## Mallorca Reverse Geocoder 
 
-Dado un punto geográfico obtiene el municipio de la isla al que pertenece dicho punto.
-En el directorio municipios están los polígonos de cada municipio de la isla en formato GPX.
+Given a geographical point gets the island town of the point.
+In the **municipios** directory there are the town polygons GPX format.
